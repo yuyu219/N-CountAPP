@@ -1,4 +1,4 @@
 # Swift_Project
-當讀書會小老師時的第一個Swift Project。
+The first IOS APP can count N! with swift.
 
-The first application with swift, can count N! number.
+當讀書會小老師時的第一個Swift Project。
